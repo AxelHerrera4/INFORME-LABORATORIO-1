@@ -47,6 +47,21 @@ Los nodos del circuito nos ayudan a ver el cambio de estructura de estos, por lo
 
 4) Calculo de error.
 
+Se comprobo que los valores medidos no son tan exactos como los valores calculados por el hecho de que las fuentes o elementos electronicos no tienen valores exactos porque oscilan o tienen una tolerancia. La primera tabla es del valor de voltaje e intensidad de cada resistencia, estas varian un poco sus decimales teniendo asi valores mas aproxiamdos a los reales, la comprobacion que se hace es que la suma de todos los voltajes de las resistencias daran el voltaje total de la fuente o la que transcurre en el circuito, y de igual manera con la intensidad.
+
+Tambien se comprobo que tienen tres tratectorias  las cuales la suma algebraica de sus voltajes, nos darán el voltaje total de la fuente. Tambien tenemos a los nodos, en este caso son 5, la comparacion de los valores calculados y medidos como antes dicho esto no varia por mucho solo por decimas.
+
+El caluclo de error
+
+
+
+
+
+
+
+
+
+
 5) Video
 
 6) Conclusiones
