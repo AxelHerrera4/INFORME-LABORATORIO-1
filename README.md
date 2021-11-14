@@ -45,19 +45,75 @@ El circuito se forma de cinco resistencias que en su total son 4,8674 [KΩ] y u
 
 Los nodos del circuito nos ayudan a ver el cambio de estructura de estos, por lo que primero  se identifica dónde están los nodos de conexión para saber si es serie o paralelo, en este caso podemos observar dos nodos de conexión, uno de entrada y otro de salida de una estructura en paralelo con estructura en serie dentro de R3 y R4, La trayectoria del circuito, está formada por tres de estas, ya que la primera esta entre R1, R2 y R5, la otra se encuentra en R1, R3, R4 y R5, y la tercera trayectoria es la que pasará por R3, R4 y R2.
 
+PROCEDIMIENTO:
+
+1. Arme el circuito que se muestra.
+
+![](imagenes/circuito.png)
+
+2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla.
+
+![](imagenes/tabla_1.png)
+
+
+Se utilizo un simulador para la medicion de las magnitudes de los elementos que se encuentra en el circuito guía del inicio.
+
+![](imagenes/voltajes.png)
+
+![](imagenes/amperaje.png)
+
+
+
+3. Verifique si se cumple la ley de kirchhoff de voltajes en cada trayectoria.
+
+![](imagenes/tabla_2.png)
+
+TRAYECTORIA 1
+
+![](imagenes/malla1.png)
+
+
+
+TRAYECTORIA 2
+
+
+![](imagenes/malla2.png)
+
+
+TRAYECTORIA 3
+
+![](imagenes/malla3.png)
+
+4. 1.5.4.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
+
+
+![](imagenes/tabla_3.png)
+
+
+
+
+
+
 4) Calculo de error.
 
 Se comprobo que los valores medidos no son tan exactos como los valores calculados por el hecho de que las fuentes o elementos electronicos no tienen valores exactos porque oscilan o tienen una tolerancia. La primera tabla es del valor de voltaje e intensidad de cada resistencia, estas varian un poco sus decimales teniendo asi valores mas aproxiamdos a los reales, la comprobacion que se hace es que la suma de todos los voltajes de las resistencias daran el voltaje total de la fuente o la que transcurre en el circuito, y de igual manera con la intensidad.
 
 Tambien se comprobo que tienen tres tratectorias  las cuales la suma algebraica de sus voltajes, nos darán el voltaje total de la fuente. Tambien tenemos a los nodos, en este caso son 5, la comparacion de los valores calculados y medidos como antes dicho esto no varia por mucho solo por decimas.
 
+
 El caluclo de error
 
+Calculo de error de la tabla 1.
 
+![](imagenes/tabla_1_error.png)
 
+Calculo de error de la tabla 2.
 
+![](imagenes/tabla_2_error.png)
 
+Calculo de error de la tabla 3.
 
+![](imagenes/tabla_3_error.png)
 
 
 
