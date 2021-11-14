@@ -122,6 +122,15 @@ Calculo de error de la tabla 3.
 
 6) Conclusiones
 
+-El calculo de las magnitudes puede ser mas acertada al valor real de los elementos electricos, los cuales se da un valor aproximado o con una tolerancia, por el hecho de que no existen elementos electronicos con valores exactos.
+
+
+
 7) Bibliografia
+
+(Salazar, 2010)Arturo.J. (2014). Leyes de Kirchhoff Son dos y junto con la ley de Ohm, definen el conjunto de ecuaciones que permiten resolver un circuito eléctrico más o menos complejo. Ambas leyes se basan en principios superiores como el. 1–3.
+
+
+Salazar, A. (2010). Leyes de voltajes y corrientes de Kirchhoff. Universidad de Los Andes, 1(1), 13–34.
 
 
