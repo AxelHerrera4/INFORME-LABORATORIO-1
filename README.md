@@ -33,7 +33,7 @@ La segunda ley de Kirchhoff o también se la denomina ley de mallas o de tension
 
 
 
-![](leyes de kirchoff.png)
+![](imagenes/leyes de kirchoff.png)
 
 
 
