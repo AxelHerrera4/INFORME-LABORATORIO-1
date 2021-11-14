@@ -31,7 +31,6 @@ La segunda ley de Kirchhoff o también se la denomina ley de mallas o de tension
 •	Para un circuito la suma de voltajes nodo a nodo para una secuencia de nodos cerrada es cero.
 
 ![](leyes de kirchoff.png)
-![](leyes de kirchoff.png)
 
 3) Explicación del procedimiento.
 
