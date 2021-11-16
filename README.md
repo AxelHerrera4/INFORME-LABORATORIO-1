@@ -120,6 +120,9 @@ Calculo de error de la tabla 3.
 
 5) Video
 
+
+https://youtu.be/zR2iE3-qWEo
+
 6) Conclusiones
 
 -El calculo de las magnitudes puede ser mas acertada al valor real de los elementos electricos, los cuales se da un valor aproximado o con una tolerancia, por el hecho de que no existen elementos electronicos con valores exactos.
