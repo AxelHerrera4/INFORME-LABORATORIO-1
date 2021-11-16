@@ -127,7 +127,9 @@ https://youtu.be/zR2iE3-qWEo
 
 -El calculo de las magnitudes puede ser mas acertada al valor real de los elementos electricos, los cuales se da un valor aproximado o con una tolerancia, por el hecho de que no existen elementos electronicos con valores exactos.
 
+-Logramos diseñar un circuito básico con la ayuda del simulador virtual asemejándose a la realidad, esto se logró realizar gracias a los conocimientos adquiridos en hira de clases además, llegamos que saber las diferencias de un circuito en serie y paralelo.
 
+-Se realizaron correctamente las mediciones de voltaje, corriente y resistencia en el circuito, así se pudo comprobar las dos leyes de Kirchoff
 
 7) Bibliografia
 
