@@ -88,7 +88,7 @@ TRAYECTORIA 3
 
 
 
-
+![](imagenes/TABLA_3.png)
 
 
 
